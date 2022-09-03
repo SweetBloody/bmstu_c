@@ -1,0 +1,9 @@
+aaa
+ccc
+100.4578
+bbb
+bbb
+102
+ccc
+aaa
+101

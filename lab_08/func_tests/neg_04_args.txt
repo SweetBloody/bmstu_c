@@ -1,0 +1,1 @@
+a neg_04_in_1.txt neg_04_in_2.txt neg_01_out.txt temp

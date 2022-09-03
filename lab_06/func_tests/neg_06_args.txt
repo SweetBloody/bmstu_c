@@ -1,0 +1,2 @@
+neg_06_in.txt name
+ 

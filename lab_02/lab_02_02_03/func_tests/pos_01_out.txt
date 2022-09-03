@@ -1,0 +1,2 @@
+Array with Armstrong numbers:
+153 370

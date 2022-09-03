@@ -1,0 +1,2 @@
+Average geometry value of positive elements:
+5.065797

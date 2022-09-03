@@ -1,0 +1,2 @@
+Array with Armstrong numbers:
+2 5 407 8208

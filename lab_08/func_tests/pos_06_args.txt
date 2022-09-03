@@ -1,0 +1,1 @@
+m pos_06_in_1.txt pos_06_in_2.txt pos_06_out.txt

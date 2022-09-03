@@ -1,0 +1,1 @@
+o neg_08_in.txt neg_08_out.txt

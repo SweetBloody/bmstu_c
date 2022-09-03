@@ -1,0 +1,1 @@
+There are no number which figure sum is more than 10.

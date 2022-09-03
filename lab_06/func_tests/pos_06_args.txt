@@ -1,0 +1,2 @@
+pos_06_in.txt year 100
+

@@ -1,0 +1,4 @@
+Approximate sum: 1.154388
+Accurate sum: 1.154701
+Delta: 0.000312
+Sigma: 0.000270

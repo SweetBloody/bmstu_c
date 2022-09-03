@@ -1,0 +1,1 @@
+o pos_10_in.txt pos_10_out.txt
